@@ -21,10 +21,10 @@
 
     <div class="mt-6">
       <button class="bg-gray-100 text-sm text-gray-700 px-4 py-2 rounded hover:shadow hover:border-gray-300 mx-2">
-         Search
+         Search for internship
       </button>
       <button class="bg-gray-100 text-sm text-gray-700 px-4 py-2 rounded hover:shadow hover:border-gray-300 mx-2">
-        search for internship
+        Search for job
       </button>
     </div>
   </div>
